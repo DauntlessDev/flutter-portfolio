@@ -21,7 +21,8 @@ I'm very happy while building it, i used blocs with react to combine two streams
 </p>
 
 
-## Thanks for stopping by! To check more please check my repository! I built over 40+ mobile apps! :)
+## Thanks for stopping by! 
+<i>To check more please check my repository! I built over 40+ mobile apps! :)</i>
 
 # Contact Info:
 
