@@ -14,10 +14,10 @@ Timebox is a flutter job/time tracker app which is also available for both ios a
 
 I'm very happy while building it, i used blocs with react to combine two streams of data and also conducted unit and widget tests and used mockito for easier testing. For login, and saving the data i used firebase for it. It is built in vscode and is written entirely with dart and flutter.
 <p align="center">
-
 <img src="assets/timebox-gif.gif" width="230"  title="timebox gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/timebox-entries.jpg" width="230" title="timebox entries">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/timebox-jobs.jpg" width="230" title="timebox jos">
-<!-- <img src="images/sakura/sakura-play.png" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/sakura/sakura-win.png" width="230" title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/sakura/sakura-example.gif" width="226" title="Word Guess"> -->
 </p>
+
+<!-- <img src="images/sakura/sakura-play.png" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/sakura/sakura-win.png" width="230" title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/sakura/sakura-example.gif" width="226" title="Word Guess"> -->
 
 
 ## Thanks for stopping by! 
