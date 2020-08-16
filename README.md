@@ -2,7 +2,7 @@
 
 
 # Bizz
-Tinkler is e-commerce app which is built with flutter and dart. This is an app where users can quickly buy clothes that they 
+Bizz is e-commerce app which is built with flutter and dart. This is an app where users can quickly buy clothes that they 
 like in seconds. Users can also start their own shop and sell their clothes buy becoming a seller member. The users will able to
 shop freely and easily with the app's minimalistic design and color.
 
