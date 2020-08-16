@@ -1,12 +1,22 @@
 <a href="https://cmillerco.com/resume/iOS-Dev-Cary-Miller.pdf" download><img src="https://img.shields.io/badge/Download-Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:cary@cmillerco.com"><img src="https://img.shields.io/badge/Email-cary-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/carymiller" target="_blank"><img src="https://img.shields.io/badge/linkedin-caryMiller-brightgreen.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/carycodes" target="_blank"><img src="https://img.shields.io/badge/twitter-carycodes-blue.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 
+# Bizz
+Tinkler is e-commerce app which is built with flutter and dart. This is an app where users can quickly buy clothes that they 
+like in seconds. Users can also start their own shop and sell their clothes buy becoming a seller member. The users will able to
+shop freely and easily with the app's minimalistic design and color.
+
+I'm extremely pleased with how the project came out and it also really opened my eyes how much effort developers give to build these kinds of app. At first i thought that this would be small app, but when i started builting it, it is not easy as it seems which i really enjoy because it means i am learning.  I used a new architecture for the app which is very similar to MVVM called Stacked Architecture and with it my development process become much better and i was able to seperate concerns much better.
+<p align="center">
+<img src="assets/tinkler-gif.gif" width="226"  title="tinkler gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/tinkler-followers.jpg" width="230" title="tinker followers">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/tinkler-convo.jpg" width="230" title="tinkler convo">
+</p>
+
 # Tinkler
 Tinkler is social media app which is also built with flutter with light and dark mode. With this app, users can express themselves and update their followers about their day in different ways. Users can search and follow each other while also chat their friends, post, like, comment and customize their profile. Users can use their facebook to login or create an account.
 
 I'm extremely pleased with how the project came out and it also really opened my eyes how much effort developers give to build these kinds of app. At first i thought that this would be small app, but when i started builting it, it is not easy as it seems which i really enjoy because it means i am learning.  I used a new architecture for the app which is very similar to MVVM called Stacked Architecture and with it my development process become much better and i was able to seperate concerns much better.
 <p align="center">
-<img src="assets/tinkler-gif.gif" width="226"  title="tinkler gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/tinkler-followers.jpg" width="230" title="tinker followers">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/tinkler-convo.jpg" width="230" title="tinkler convo">
+<img src="assets/bizz-gif.gif" width="226"  title="bizz gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/bizz-product.jpg" width="230" title="bozz-product">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/bozz-profile.jpg" width="230" title="bizz-profile">
 </p>
 
 # Time-Box
