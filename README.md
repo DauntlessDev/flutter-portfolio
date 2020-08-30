@@ -6,7 +6,7 @@ Bizz is e-commerce app which is built with flutter and dart. This is an app wher
 like in seconds. Users can also start their own shop and sell their clothes buy becoming a seller member. The users will able to
 shop freely and easily with the app's minimalistic design and color.
 
-I'm extremely pleased with how the project came out and it also really opened my eyes how much effort developers give to build these kinds of app. At first i thought that this would be small app, but when i started builting it, it is not easy as it seems which i really enjoy because it means i am learning.  I used a new architecture for the app which is very similar to MVVM called Stacked Architecture and with it my development process become much better and i was able to seperate concerns much better.
+This project is still in progress, at the present i just have finished the UI part. I am currently learning mongoDB and how it can be connected to flutter applications. With this, i would be able to improve more of my skills for flutter development. I am also planning to use strip as the payment gateaway in the future.
 <p align="center">
 <img src="assets/bizz-gif.gif" width="226"  title="bizz gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/bizz-product.jpg" width="230" title="bizz-product">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/bizz-profile.jpg" width="230" title="bizz-profile">
 </p>
@@ -28,6 +28,17 @@ I'm very happy while building it, i used blocs with react to combine two streams
 <img src="assets/timebox-gif.gif" width="226"  title="timebox gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/timebox-entries.jpg" width="230" title="timebox entries">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/timebox-jobs.jpg" width="230" title="timebox jos">
 </p>
 
+
+
+# Covid-PH
+A mobile application where users can check the latest statistics of cases based on the data of
+DOH for the Philippines. An important feature of this app is that users can search hospitals and
+check their current facilities if they have vacancies or not for both covid and non-covid patients.
+
+This app was a collaboration between me and my batchmate @DoggDev. While doing this application, i learned a lot of things that company do. I would say that our collaboration is great because we always talk things out, we also use github for uploadings changed and continuous integration. While making this app, we keep the SOLID principles in mind, and we strictly followed it. I am mainly responsible in backend, and he is mainly responsible in frontend. In the present, we are in the final phase which is the map.
+<p align="center">
+<img src="assets/covid-home.jpg" width="230"  title="covid home">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/covid-facilities.jpg" width="230" title="covid facilities">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/covid-maps.jpg" width="230" title="covid maps">
+</p>
 <!-- <img src="images/sakura/sakura-play.png" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/sakura/sakura-win.png" width="230" title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/sakura/sakura-example.gif" width="226" title="Word Guess"> -->
 
 
