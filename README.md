@@ -7,8 +7,7 @@
 
 # Bizz
 Bizz is e-commerce app which is built with flutter and dart. This is an app where users can quickly buy clothes that they 
-like in seconds. Users can also start their own shop and sell their clothes buy becoming a seller member. The users will able to
-shop freely and easily with the app's minimalistic design and color.
+like in seconds. Users can also start their own shop and sell their clothes buy becoming a seller member. The users will be able to shop freely and easily with the app's minimalistic design and color.
 
 This project is still in progress, at the present i just have finished the UI part. I am currently learning mongoDB and how it can be connected to flutter applications. With this, i would be able to improve my development skills. I am also planning to use stripe as the payment gateaway in the future.
 <p align="center">
@@ -27,7 +26,7 @@ I'm extremely pleased with how the project came out and it also really opened my
 # Time-Box
 Timebox is a flutter job/time tracker app which is also available for both ios and android devices. I built this so that i would be able to practice different kinds of login, especially facebook and gmail which are both used largely by many people. With this app you can put your job, its tasks and their subtasks and check all of the them in entries page which includes the summary of them and calculates the total of earned money based on time and rate.
 
-I'm very happy while building it, i used blocs with react to combine two streams of data and also conducted unit and widget tests and used mockito for easier testing. For login, and saving the data i used firebase for it. It is built in vscode and is written entirely with dart and flutter.
+I'm very happy while building it, i used blocs with react to combine two streams of data and also conducted unit and widget tests and used mockito for easier testing. For login and storing the data, i used firebase for it. It is built in vscode and is written entirely with dart and flutter.
 <p align="center">
 <img src="assets/timebox-gif.gif" width="226"  title="timebox gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/timebox-entries.jpg" width="230" title="timebox entries">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/timebox-jobs.jpg" width="230" title="timebox jos">
 </p>
