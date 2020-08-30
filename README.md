@@ -10,7 +10,7 @@ Bizz is e-commerce app which is built with flutter and dart. This is an app wher
 like in seconds. Users can also start their own shop and sell their clothes buy becoming a seller member. The users will able to
 shop freely and easily with the app's minimalistic design and color.
 
-This project is still in progress, at the present i just have finished the UI part. I am currently learning mongoDB and how it can be connected to flutter applications. With this, i would be able to improve more of my skills for flutter development. I am also planning to use strip as the payment gateaway in the future.
+This project is still in progress, at the present i just have finished the UI part. I am currently learning mongoDB and how it can be connected to flutter applications. With this, i would be able to improve more of my skills for flutter development. I am also planning to use stripe as the payment gateaway in the future.
 <p align="center">
 <img src="assets/bizz-gif.gif" width="226"  title="bizz gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/bizz-product.jpg" width="230" title="bizz-product">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/bizz-profile.jpg" width="230" title="bizz-profile">
 </p>
