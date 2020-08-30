@@ -39,7 +39,7 @@ A mobile application where users can check the latest statistics of cases based 
 DOH for the Philippines. An important feature of this app is that users can search hospitals and
 check their current facilities if they have vacancies or not for both covid and non-covid patients.
 
-This app was a collaboration between me and my batchmate @DoggDev. While doing this application, i learned a lot of things that company do. I would say that our collaboration is great because we always talk things out, we also use github for uploadings changed and continuous integration. While making this app, we keep the SOLID principles in mind, and we strictly followed it. I am mainly responsible in backend, and he is mainly responsible in frontend. In the present, we are in the final phase which is the map.
+This app is a collaboration between me and my batchmate @DoggoDev. While doing this application, i learned a lot of things that companies do. I would say that our collaboration is great because we always talk what to do in slack. We also used github for uploading changes and github actions for continuous integration. While making this app, we keep the SOLID principles in mind, and we strictly followed it. We also made it maintainable by using architecture and adding mock tests. I am mainly responsible in backend, and he is mainly responsible in frontend. In the present, we are in the final phase which is the map screen.
 <p align="center">
 <img src="assets/covid-home.png" width="226"  title="covid home">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/covid-facilities.jpg" width="230" title="covid facilities">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/covid-maps.png" width="230" title="covid maps">
 </p>
