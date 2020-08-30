@@ -1,8 +1,10 @@
-<!-- <a href="https://cmillerco.com/resume/iOS-Dev-Cary-Miller.pdf" download><img src="https://img.shields.io/badge/Download-Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:cary@cmillerco.com"><img src="https://img.shields.io/badge/Email-cary-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/carymiller" target="_blank"><img src="https://img.shields.io/badge/linkedin-caryMiller-brightgreen.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/carycodes" target="_blank"><img src="https://img.shields.io/badge/twitter-carycodes-blue.svg?style=for-the-badge&logo=twitter&logoColor=white"></a> -->
 
-<img src="https://img.shields.io/badge/Download-Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Email-Brave-blue?logo=minutemailer&logoColor=white&style=for-the-badge">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/LINKEDIN-DauntlessDev-violet?logo=linkedin&logoColor=white&style=for-the-badge">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/twitter-BRAVELEUTERIO-darkblue.svg?style=for-the-badge&logo=twitter&logoColor=white">
 
-###### Note: Still working on the links of the shields 
+<!-- <img src="https://img.shields.io/badge/Download-Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white">&nbsp;&nbsp;&nbsp; -->
+<a href="mailto:romleuterio@gmail.com"><img src="https://img.shields.io/badge/Email-Brave-blue?logo=minutemailer&logoColor=white&style=for-the-badge"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/braveheart-leuterio-7b90b81b6/"><img src="https://img.shields.io/badge/LINKEDIN-DauntlessDev-violet?logo=linkedin&logoColor=white&style=for-the-badge"></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/braveleuterio" target="_blank"><img src="https://img.shields.io/badge/twitter-BRAVELEUTERIO-darkblue.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
+
+<!-- ###### Note: Still working on the links of the shields  -->
+
 
 
 # Bizz
