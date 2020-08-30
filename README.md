@@ -50,5 +50,5 @@ This app was a collaboration between me and my batchmate @DoggDev. While doing t
 # Contact Info:
 
 - Email: romleuterio@gmail.com
-- LinkedIn: [braveleuterio](https://www.linkedin.com/in/carymiller/)
+<!-- - LinkedIn: [braveleuterio](https://www.linkedin.com/in/carymiller/) -->
 - Twitter: [@braveleuterio](https://twitter.com/carycodes)
